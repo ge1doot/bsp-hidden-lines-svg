@@ -1,0 +1,48 @@
+\# BSP Hidden Lines — SVG / Plotter friendly
+
+
+
+Hidden-line rendering using a classic BSP tree approach  
+
+(archaeological code revival from 90s-era engines).
+
+
+
+\## Features
+
+\- Exact hidden-line removal (no painter’s algorithm)
+
+\- BSP-based ray occlusion
+
+\- SVG output (pen-plotter friendly)
+
+\- Zero fill, pure geometry
+
+\- Near-zero allocations in hot paths
+
+\- ~200ms render time for ~300 polygons
+
+
+
+\## Demo
+
+Open `index.html` locally  
+
+or view online via GitHub Pages.
+
+
+
+\## Origins
+
+Inspired by classic BSP literature:
+
+http://www.gamers.org/dhs/helpdocs/bsp\_faq.html
+
+
+
+\## Author
+
+Gerard Ferrandez (@ge1doot)
+
+
+
