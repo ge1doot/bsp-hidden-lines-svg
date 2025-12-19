@@ -14,7 +14,8 @@ Hidden-line rendering using a classic BSP tree approach
 ## Demo
 
 Open `index.html` locally  
-or view online via GitHub Pages.
+or view [Live demo](https://ge1doot.github.io/bsp-hidden-lines-svg/)
+
 
 ## Origins
 
